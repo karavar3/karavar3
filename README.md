@@ -18,7 +18,7 @@ _____
 
 <h3> Hi there! 👋 </h3>
 
-I'm Fego. I live in Turkey. I can speak Turkish,english and little bit portuguese. I am an Electrical and Electronics Engineer. I am a full time blockchain worker. I'm a tester and developer. I've been interested in blockcahin for a long time. I joined many different networks and 200+ Testnets. And btw I have a lot of experience in managing and organizing the Discord Server (creating channels, integrating and moderating bots, supporting and helping the community).I enjoy testing testnets and giving feedback to the team! It's an honor to help the community!
+I am Fego. I live in Turkey. I can speak Turkish, English and a little Portuguese. I am an Electrical and Electronics Engineer. I am a full time blockchain employee. I am a tester and developer. I have been interested in blockchain for a long time (5+ years). I have joined many different networks and 250+ Testnets. I am using Bare-Metal servers, monitored 24/7. I provide reliable and fast communication staking service. And by the way, I have a lot of experience managing and organizing Discord Server (creating channels, integrating and managing bots, supporting and helping the community). I enjoy testing testnets and providing feedback to the team! It's an honor to help the community!
 
 <h4>I believe the future is blockchain. I am happy to contribute to projects and the community. Making everything decentralized and reliable 🥂</h4>
 
